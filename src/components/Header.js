@@ -5,7 +5,7 @@ import trackIcon from '@iconify/icons-gg/track';
 const Header = () => {
     return (
         <header>
-            <h1><Icon icon={trackIcon}/> Natural Event Tracker (Powered By NASA)</h1>
+            <h1><Icon icon={trackIcon}/> Natural Event Tracker (Powered By NASA) Rayberk</h1>
         </header>
     )
 }
